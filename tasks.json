@@ -1,0 +1,19 @@
+{
+  "dashBoard" : {
+    "purchaseAmount" : 1162,
+    "webSite" : "Hello.com"
+  },
+  "courses" : [ {
+    "title" : "Cypress",
+    "price" : 40,
+    "copies" : 4
+  }, {
+    "title" : "RPA",
+    "price" : 45,
+    "copies" : 10
+  }, {
+    "title" : "Appium",
+    "price" : 36,
+    "copies" : 7
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "brandName" : "oppo",
+  "capacity" : "256GB",
+  "color" : "black",
+  "price" : [ 30000, 29999 ],
+  "ram" : 12,
+  "subBrand" : {
+    "brandName" : "realme",
+    "capacity" : "128GB",
+    "color" : "pink",
+    "price" : [ 1000, 2000 ],
+    "ram" : 128,
+    "subBrand" : null
+  }
+}
